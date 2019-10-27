@@ -1,0 +1,42 @@
+body, html {
+    width: 100%;
+    min-width: 1000px;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    font-family: Tahoma;
+    background: #ffffff;
+    color: #ffffff;
+}
+.wrapper{
+    width: 1000px;
+    margin: 0 auto;
+}
+.header{
+    background: #009e9d;
+    padding: 50px 0;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.icons{
+    background: #ffffff;
+    padding: 50px 0;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.content{
+    background: #97969b;
+    padding: 50px 0;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+
